@@ -8,7 +8,7 @@ import java.util.TreeSet;
 
 
 // 오답.
-// error case를 찾지 못함.
+// 언제 오답인지 찾지 못해서 못고침 -_-
 
 public class WildCard_re {
     public static void main(String[] args) {
